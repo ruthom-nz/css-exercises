@@ -1,0 +1,7 @@
+div {
+  font-size: 32px;
+  font-weight: bold; /*could do 700, but bold works better*/
+  color: white;
+  background-color: red;
+  text-align: center;
+}
